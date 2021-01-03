@@ -55,3 +55,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'
 gem 'nested_scaffold'
+
+# Upgrades nokogiri to version 1.11.0.rc4 or later
+gem "nokogiri", ">= 1.11.0.rc4"
